@@ -18,3 +18,9 @@ Steps to run
 4. Output will show the sorted integers in ascending order:
    Sorted numbers: [1, 2, 3, 4, 5]
 
+Note:
+The relevant files to this project are:
+   SortedStack.java
+   SortedStack.class
+Project 5 was adapted from Project 4 to now be a stack and not a linked list
+
